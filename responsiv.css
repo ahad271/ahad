@@ -1,0 +1,476 @@
+@media only screen and (max-width: 480px) {
+.allIcons{
+   position:relative;
+   left:1%;}
+   
+.title {
+    width:28%;
+    font-size: 10px;
+   
+    left: 1%;
+}
+
+
+h2 {
+    font-size: 23px;
+    left: -7%;
+}
+h4{left:-2%;font-size:25px}
+.btn {
+    left: -8%;
+    top: 48%;
+    position: absolute;
+    width: 44%;
+}
+
+ul.submenu {
+    width: 167%;
+    height: 285px;
+}
+.timeline {
+    width: 80%;
+    height: 550px;
+    position: relative;
+    top: -3em;
+    left: -14%;
+}
+.timeline ul li{height:150px}
+.timeline:before{height:520px}
+.timeline ul li:nth-child(even){width:80%;right:-21%}
+.timeline ul li:nth-child(odd){width:80%;left:-20%}
+.timeline ul li:nth-child(odd):before {left:86%;top:15%}
+.timeline ul li:nth-child(even):before {right:86%;top:15%}
+h5 {
+    font-size: 14px;
+    font-weight: bold;
+}
+p{font-size:11px}
+h3 {
+    left: -52%;
+    width: 100%;
+}
+.about{height:1000px}
+.personal {
+    width: 100%;
+    top: 1em;
+    left: -8em;
+    height: 500px;
+}
+
+#personalinfo {
+    position: relative;
+    left: -8%;
+}
+img#myImage {
+    width: 120px;
+    height: 120px;
+	position:relative;
+}
+
+.portfolio {
+    height: 142em;
+    top: 134em;
+}
+.portfolioTitle{left:1%;top:-2%}
+
+.skill{
+	top:230em;
+	width:100%;
+
+}
+
+.skillTitle{
+	left:2%
+}
+.single-skill {
+    width: 100%;
+    margin-top:20px;
+}
+.contact {
+    height: 1500px;
+    top: 255em;
+}
+.contactTitle {
+    top: -8em;
+    left: 2%;
+}
+
+.address {
+    width: 100%;
+    top: -9em;
+    left: 26%;
+}
+.massage {
+    width: 90%;
+    top: -17em;
+    left: 7%;
+}
+.map {
+    width: 100%;
+    top: -20em;
+    left: 8%;
+}
+#footer{top:255em}
+}
+@media only screen and (min-width: 480px) and (max-width:768px){
+.contant {
+    margin-right: 10%;
+}
+
+.title {
+    width: 34%;
+    font-size: 12px;
+    left: 5%;
+}
+	
+	h2 {
+    font-size: 25px;
+    left: -5%;
+}
+	h4 {
+    left: 3%;
+    font-size: 25px;
+}
+	
+.allIcons{
+	   position:relative;
+	   left:8%;
+	   }
+	
+.btn {
+    left: -1%;
+    top: 50%;
+    position: absolute;
+    width: 44%;
+}
+ul.submenu {
+    width: 190%;
+    height: 290px;
+}	
+h3 {
+    left: 25%;
+    width: 100%;
+    margin: 2%;
+}
+.timeline {
+    width: 80%;
+    height: 550px;
+    position: relative;
+    top: -2em;
+    left: -4em;
+}
+.timeline ul li{height:150px}
+.timeline:before{height:520px}
+.timeline ul li:nth-child(even) { width: 68%; right: -12.6%;}
+.timeline ul li:nth-child(odd){width:68%;left:-12.6%}
+.timeline ul li:nth-child(odd):before {left:91%;top:15%}
+.timeline ul li:nth-child(even):before {
+    right: 90.4%;
+    top: 15%;
+}
+
+
+#personalinfo {
+    position: relative;
+    left: 43%;
+    width: 100%;
+    margin: 2%;
+    padding-bottom: 10px;
+}
+img#myImage {
+    width: 150px;
+    height: 151px;
+    position: relative;
+    left: 46%;
+}
+.portfolio {
+    height:170em;
+    top: 145em;
+}
+
+.portfolioTitle{left:4%;top:5%}
+
+
+.personal {
+    top: 75px;
+    left: -8%;
+    width: 100%;
+}
+#persionalinfoul {
+    width: 100%;
+    position: relative;
+    left: -51px;
+}
+
+.skill{
+	top:270em;
+	width:100%;
+    left:20%
+}
+.single-skill {
+    width: 50%;
+    margin-top:20px;
+}
+.skillTitle{
+	left:-15%
+}
+.contact {
+    height: 1600px;
+    top: 295em;
+}
+.contactTitle {
+    top: -19%;
+    left: 14%;
+    width: 80%;
+}
+#adressTitle {
+    width: 100%;
+    top: -19%;
+    font-size: 35px;
+}
+.address {
+    width: 100%;
+    top: -9em;
+    left: 19%;
+}
+.massage {
+    width: 75%;
+    top: -17em;
+    left: 18%;
+}
+.map {
+    width: 100%;
+    top: -18em;
+    left: 18%;
+}
+#footer{top:295em}
+}
+
+@media only screen and (min-width: 767px) and (max-width: 992px){
+	
+	
+.title {
+    width: 34%;
+    font-size: 12px;
+    left: 14%;
+}
+	
+		h2 {
+    font-size: 36px;
+    left: -2%;
+}
+	h4 {
+    left: 11%;
+    font-size:30px;
+}
+.allIcons{
+	   position:relative;
+	   left:18%;
+	   }
+	
+	.btn {
+    left: -1%;
+    top: 50%;
+    position: absolute;
+    width: 67%;
+}
+.timeline {
+    position: relative;
+    margin: auto;
+    width: 45%;
+    
+    left: -3em;
+    height: 800px;
+    float: right;
+    top: 3em;
+}
+
+.timeline ul li{height:150px}
+.timeline:before{height:520px}
+.timeline ul li:nth-child(even) { width: 68%; right: -12.6%;}
+.timeline ul li:nth-child(odd){width:68%;left:-12.6%}
+.timeline ul li:nth-child(odd):before {left:90.5%;top:15%}
+.timeline ul li:nth-child(even):before {
+    right: 89.5%;
+    top: 15%;
+}
+h3#educationalinfo {
+    position: relative;
+    top: -3em;
+    right: 8em;
+}
+
+.personal {
+    width: 40%;
+    float: left;
+    margin-right: 55px;
+    height: 700px;
+    position: relative;
+    top: -1em;
+	left:-15%
+}
+.skill {
+    top: 285em;
+    width: 100%;
+    left:13%;
+}
+.single-skill {
+ 
+    margin-right:50px;
+	width:30%;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.skillTitle{
+	left:-10%
+}
+.contact {
+    height: 1600px;
+    top: 295em;
+}
+.contactTitle {
+    top: 3%;
+    left: -17%;
+    width: 100%;
+}
+#adressTitle {
+    width: 100%;
+    top: -19%;
+    font-size: 35px;
+}
+.address {
+    width: 100%;
+    top: 13em;
+    left: 12%;
+}
+
+.massage {
+    width: 50%;
+    top:5em;
+    left: 10%;
+}
+.map {
+    width: 100%;
+    top: 5%;
+    left: 10%;
+}
+#footer{top:295em}
+}
+}
+
+@media only screen and (min-width: 992px) and (max-width :1170px) {
+.title {
+    width: 34%;
+    font-size: 12px;
+    left: 14%;
+}
+
+}
+
+@media only screen and (min-width: 993px) and (max-width :1300px){
+	
+	.title {
+    width: 42%;
+    font-size: 15px;
+    left: 20%;
+}
+h2 {
+    font-size: 50px;
+    left: -6%;
+}
+h4 {
+    left: 21%;
+    font-size:30px;
+}
+.allIcons{
+	   position:relative;
+	   left:26%;
+	   }
+	
+	.btn {
+    left: 8%;
+    top: 50%;
+    position: absolute;
+    width: 67%;
+}
+	.timeline {
+    position: relative;
+    margin: auto;
+    width: 45%;
+    
+    left: -3em;
+    height: 800px;
+    float: right;
+    top: 3em;
+}
+	
+.personal {
+    width: 500px;
+    float: left;
+    margin-right: 22px;
+    height: 700px;
+    position: relative;
+    top: -1em;
+}
+.timeline ul li{height:150px}
+.timeline:before{height:520px}
+.timeline ul li:nth-child(even) { width: 68%; right: -12.6%;}
+.timeline ul li:nth-child(odd){width:68%;left:-12.6%}
+.timeline ul li:nth-child(odd):before {left:90.5%;top:15%}
+.timeline ul li:nth-child(even):before {
+    right: 89.5%;
+    top: 15%;
+}
+.personal {
+    width: 40%;
+    float: left;
+    margin-right: 55px;
+    height: 700px;
+    position: relative;
+    top: -1em;
+	left:-15%
+}
+	.address {
+    width: 25%;
+
+    left: 10%;
+   
+}
+.massage {
+    width: 24%;
+    left: 42%;
+  
+}
+.map {
+    width: 24%;
+    left: 71%;
+    top: -49.4em;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 600px){
+ul.submenu {
+    width: 104%;
+    height: 263px;
+}}
+@media only screen and (min-width: 669px) and (max-width: 991px) {
+	
+
+}
+
